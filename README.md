@@ -1,1 +1,2 @@
 # DTI-ASSIGNMENT-CLUSTERING
+MALL CUSTOMER SEGMENTATION Created By Putri Apriyanti Windya (DS0124 - Data Scientist 01)
